@@ -61,7 +61,7 @@ end
 function Config.ShowRequiredItems(items, show)
     TriggerEvent('inventory:client:requiredItems', items, show)
 end
-
+--Jeremiah Was Not Here
 Config.MinimumPaletoPolice = 0
 Config.MinimumPacificPolice = 0
 Config.MinimumFleecaPolice = 0
